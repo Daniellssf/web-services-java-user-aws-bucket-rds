@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: Coloque seu enpoint aqui
+  accessKey: Coloque seu acess key aqui
+  secretKey: Coloque seu secret Key aqui
+  bucketName: nome do bucket aqui
