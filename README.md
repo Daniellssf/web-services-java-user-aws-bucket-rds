@@ -1,4 +1,4 @@
-# web-services-via-CEP
+# Java Web Service utilizando AWS
 Criação de um WEB Services para cadastramento de um usuário
 
 * O programa consiste num modulo de cadastramento de usuários com os campos: nome, email, telefone, CEP e endereço (o campo email é chave de busca).
